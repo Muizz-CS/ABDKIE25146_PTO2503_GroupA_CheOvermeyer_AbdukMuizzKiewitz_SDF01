@@ -1,12 +1,12 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Abdul Muizz Kiewitz
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
 ---
 
-## 🎯 About Me
+## 🎯 About Us
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
