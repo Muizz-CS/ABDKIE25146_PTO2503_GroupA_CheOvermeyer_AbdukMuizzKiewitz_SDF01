@@ -53,14 +53,20 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ### **1️⃣ First GitHub Project**
 
-🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
+~ **Description:** My first project using GitHub to manage files.  
+~ **Status:** ✅ Completed
 
 ### **2️⃣ Personal Portfolio** _(Coming Soon!)_
 
-🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
-🔹 **Status:** ⏳ In Progress
+~ **Description:** A simple portfolio to showcase my projects.  
+~ **Technologies:** HTML, CSS
+~ **Status:** ⏳ In Progress
+
+### **⚂ E-commerce website**
+
+~ **Description:** A fully functioning e-commerce website build in wordpress while at university with classmates
+~ **Technologies:** Wordpress and HTML5
+~ **Status:** Completed
 
 ---
 
