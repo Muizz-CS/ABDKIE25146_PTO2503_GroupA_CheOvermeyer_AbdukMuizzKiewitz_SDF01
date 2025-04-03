@@ -2,16 +2,16 @@
 
 # 👋 Hi, I'm Abdul Muizz Kiewitz
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Beginner Software Developer | 🚀 Excited to Learn & Build | 🎮 Gamer | 🏎️ Car enthusiast
 
 ---
 
-## 🎯 About Us
+## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- I'm currently learning **GitHub and version control** before diving into coding.
+- Soon, I'll be exploring **HTML, CSS, and JavaScript**!
+- I love problem-solving and working on creative projects.
+- Looking forward to building my first real-world application.
 
 ---
 
@@ -23,23 +23,25 @@
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 
+
 **Future Technologies:**
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+, ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
 ---
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+- Teamwork & Collaboration
+- Communication Skills
+- Problem-Solving
+- Adaptability
+
 
 ---
 
-## 📌 Projects
+##  Projects
 
 Here are some of my milestone projects (to be updated as I progress!):
 
