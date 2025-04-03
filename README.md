@@ -91,7 +91,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I could not finish my studies at university but got a job to continue and complete this course at CodeSpace.
 
 ---
 
