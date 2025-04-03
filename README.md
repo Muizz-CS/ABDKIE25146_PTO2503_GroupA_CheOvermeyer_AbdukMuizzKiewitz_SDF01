@@ -12,7 +12,7 @@ My First Repo 🚀
 - Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - I love problem-solving and working on creative projects.
 - Looking forward to building my first real-world application.
-- I have studies before but did not finish
+- I have studiede before but did not finish
 
 ---
 
