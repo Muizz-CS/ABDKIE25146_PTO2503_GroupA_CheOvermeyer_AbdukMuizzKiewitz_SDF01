@@ -40,6 +40,9 @@ My First Repo 🚀
 - Communication Skills
 - Problem-Solving
 - Adaptability
+- Leadership
+- Telephone etiquette
+- Good under pressure
 
 
 ---
