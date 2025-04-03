@@ -64,7 +64,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ### **⚂ E-commerce website**
 
-~ **Description:** A fully functioning e-commerce website build in wordpress while at university with classmates
+~ **Description:** A fully functioning e-commerce website build in wordpress while at university with classmates.
 ~ **Technologies:** Wordpress and HTML5
 ~ **Status:** Completed
 
@@ -72,9 +72,10 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ##  Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+- Get comfortable using Git and GitHub
+- Learn HTML, CSS, and JavaScript
+- Build real-world projects and collaborate with others
+- Build an e-commerce website for aftermarket wheels and tires.
 
 ---
 
