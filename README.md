@@ -51,22 +51,22 @@ My First Repo 🚀
 
 Here are some of my milestone projects (to be updated as I progress!):
 
-### **1️⃣ First GitHub Project**
+###**1 First GitHub Project**
 
 ~ **Description:** My first project using GitHub to manage files.  
 ~ **Status:** ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+###**2️ Personal Portfolio** _(Coming Soon!)_
 
 ~ **Description:** A simple portfolio to showcase my projects.  
 ~ **Technologies:** HTML, CSS
 ~ **Status:** ⏳ In Progress
 
-### **⚂ E-commerce website**
+###**3 E-commerce website**
 
 ~ **Description:** A fully functioning e-commerce website build in wordpress while at university with classmates.
 ~ **Technologies:** Wordpress and HTML5
-~ **Status:** Completed
+~ **Status:** ✅Completed
 
 ---
 
@@ -97,4 +97,4 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muizz-CS&show_icons=true&theme=radical)
